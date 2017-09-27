@@ -1,3 +1,7 @@
 Hallo GitHub.
 
+<<<<<<< HEAD
 UPDATING WITH BASH
+=======
+UPDATE WITH TORTOISE
+>>>>>>> 122af5838abb3526cb8d34224d88d3495eac2e2a
